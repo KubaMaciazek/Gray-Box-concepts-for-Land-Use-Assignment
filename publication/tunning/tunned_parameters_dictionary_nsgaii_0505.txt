@@ -1,0 +1,16 @@
+nsgaii;sq_bpg;rbm_rcm_brm_bcpm_nrii;ppc;brm;140;0.5;0.5
+nsgaii;sq_bpg;rbm_rcm_brm_bcpm_nrii;ppc;rrm;140;0.5;0.5
+nsgaii;sq_bpg;rbm_rcm_brm_bcpm_nrii;ppc_fuo;brm;20;0.4;0.5
+nsgaii;sq_bpg;rbm_rcm_brm_bcpm_nrii;ppc_fuo;rrm;80;0.5;0.5
+nsgaii;sq_bpg;rbm_rcm_brm_bcpm_wri;ppc;brm;140;0.5;0.5
+nsgaii;sq_bpg;rbm_rcm_brm_bcpm_wri;ppc;rrm;150;0.6;0.5
+nsgaii;sq_bpg;rbm_rcm_brm_bcpm_wri;ppc_fuo;brm;80;0.5;0.5
+nsgaii;sq_bpg;rbm_rcm_brm_bcpm_wri;ppc_fuo;rrm;20;0.5;0.5
+nsgaii;sq_bpg_50x50_tel_bgp_strict_pr;rbm_rcm_brm_bcpm_nrii;ppc;brm;140;0.5;0.5
+nsgaii;sq_bpg_50x50_tel_bgp_strict_pr;rbm_rcm_brm_bcpm_nrii;ppc;rrm;200;0.5;0.5
+nsgaii;sq_bpg_50x50_tel_bgp_strict_pr;rbm_rcm_brm_bcpm_nrii;ppc_fuo;brm;130;0.5;0.5
+nsgaii;sq_bpg_50x50_tel_bgp_strict_pr;rbm_rcm_brm_bcpm_nrii;ppc_fuo;rrm;110;0.5;0.5
+nsgaii;sq_bpg_50x50_tel_bgp_strict_pr;rbm_rcm_brm_bcpm_wri;ppc;brm;120;0.5;0.5
+nsgaii;sq_bpg_50x50_tel_bgp_strict_pr;rbm_rcm_brm_bcpm_wri;ppc;rrm;40;0.5;0.5
+nsgaii;sq_bpg_50x50_tel_bgp_strict_pr;rbm_rcm_brm_bcpm_wri;ppc_fuo;brm;260;0.5;0.5
+nsgaii;sq_bpg_50x50_tel_bgp_strict_pr;rbm_rcm_brm_bcpm_wri;ppc_fuo;rrm;270;0.5;0.5
