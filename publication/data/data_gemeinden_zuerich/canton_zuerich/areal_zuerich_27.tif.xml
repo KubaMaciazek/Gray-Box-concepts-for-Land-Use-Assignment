@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="de"><Esri><CreaDate>20160301</CreaDate><CreaTime>09024700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureToRaster" Date="20160301" Time="090247">FeatureToRaster areal_72_09_zuerich AS09_27 D:\doktorarbeit\optimization\data_gemeinden_zuerich\canton_zuerich\areal_zuerich_27.tif 100</Process></lineage></DataProperties></Esri></metadata>

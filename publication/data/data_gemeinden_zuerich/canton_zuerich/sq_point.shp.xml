@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="de"><Esri><CreaDate>20160210</CreaDate><CreaTime>13065500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPoint" Date="20160210" Time="130655">RasterToPoint D:/polisol/daten_zuerich/soil_10_z_rec D:\doktorarbeit\optimization\data_gemeinden_zuerich\canton_zuerich\sq_point.shp VALUE</Process></lineage></DataProperties></Esri></metadata>
