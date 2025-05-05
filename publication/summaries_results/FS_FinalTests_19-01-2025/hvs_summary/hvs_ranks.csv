@@ -1,0 +1,11 @@
+param_combo;Bassersdorf_RHV;Bulach_RHV;Dubendorf_RHV;Fehraltorf_RHV;Hedingen_RHV;Meilen_RHV;Nurensdorf_RHV;Oberglatt_RHV;Pfaffikon_RHV;Rumlang_RHV;Uster_RHV;Volketswil_RHV;Wetzikon (ZH)_RHV;four_muni_FPUV_RHV
+moead|bpg_sq_tel_pp|rbm_rcm_brm_bcpm_wri|ppc|rrm|100|50|50;1;4;2;2;2;1;2;2;1;1;4;6;1;4
+moead|spg|rbm_rcm_brm_bcpm_wri|ac|rrm|100|50|100;4;7;7;3;9;5;5;5;5;5;7;8;5;6
+moead|sq_bpg|rbm_rcm_brm_bcpm_nrii|ppc|rrm|100|50|50;5;5;4;6;3;3;3;4;4;3;3;4;4;1
+moead|sq_bpg|rbm_rcm_brm_bcpm_nrii|ppc|rrm|110|50|60;3;3;3;4;4;4;4;3;3;2;1;2;3;2
+moead|tel_bpg_strict|rbm_rcm_brm_bcpm_nrii|ppc|rrm|100|50|50;2;2;1;1;1;2;1;1;2;4;2;7;2;3
+nsgaii|spg|rbm_rcm_brm_bcpm_wri|ac|rrm|100|50|100;9;10;10;10;10;10;10;10;10;10;10;10;9;10
+nsgaii|sq_bpg_50x50_tel_bgp_strict_pr|rbm_rcm_brm_bcpm_nrii|ppc|brm|300|100|10;7;6;6;7;8;7;7;7;7;7;6;3;7;7
+nsgaii|sq_bpg_50x50_tel_bgp_strict_pr|rbm_rcm_brm_bcpm_nrii|ppc|rrm|100|50|50;10;9;8;9;6;9;9;9;9;9;8;5;10;9
+nsgaii|sq_bpg_50x50_tel_bgp_strict_pr|rbm_rcm_brm_bcpm_wri|ppc_fuo|brm|340|100|10;6;1;5;5;5;6;6;6;6;6;5;1;6;5
+nsgaii|sq_bpg|rbm_rcm_brm_bcpm_nrii|ppc|rrm|120|90|50;8;8;9;8;7;8;8;8;8;8;9;9;8;8
